@@ -41,6 +41,28 @@
 ![image](https://user-images.githubusercontent.com/76247057/209428668-13ebe1cf-3acf-4666-912c-d359a7b0e7bb.png)
 
 ![image](https://user-images.githubusercontent.com/76247057/209428677-74aa76c4-3032-4c3e-a1ea-1621d3c17f3f.png)
+## Spring AOP
+#### 1 ere execution1 ere execution
+![image](https://user-images.githubusercontent.com/76247057/209428815-0fa4f17b-f17a-49ed-abcb-d7d9abf2f70a.png)
+### L'execution de Around
+![image](https://user-images.githubusercontent.com/76247057/209428842-cea592d4-a0fa-4f9d-a452-5f22f522e9a3.png)
+
+#### Lutilisation du Logger
+![image](https://user-images.githubusercontent.com/76247057/209428876-c98fc3b6-7549-4de2-9d4e-9c8aee377107.png)
+
+#### L'annotation Log
+![image](https://user-images.githubusercontent.com/76247057/209428910-254973bd-1a1d-409e-8ea7-8d55f0c37647.png)
+
+#### Accee nest pas authorisee pour un simple utilisateur
+![image](https://user-images.githubusercontent.com/76247057/209428963-d038aee1-2c31-41a1-9249-3e471ab10441.png)
+
+ ![image](https://user-images.githubusercontent.com/76247057/209428977-1b978552-e891-4739-87b6-0816f5b26703.png)
+ #### Class de config
+
+![image](https://user-images.githubusercontent.com/76247057/209429031-8d496ed0-b32d-4cd0-905a-66d39eb001cd.png)
+
+
+
 
 
 
